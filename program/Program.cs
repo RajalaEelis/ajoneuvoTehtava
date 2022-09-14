@@ -7,6 +7,8 @@ namespace program
     {
         static void Main(string[] args)
         {
+            //gsg
+            //fhfsdbfshsbfshd
             Ajoneuvo auto1 = new Ajoneuvo();
             Ajoneuvo auto2 = new Ajoneuvo();
             Ajoneuvo auto3 = new Ajoneuvo();
